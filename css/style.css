@@ -509,6 +509,7 @@ header {
   border: 1px solid var(--accent-color);
   border-radius: 4px;
   color: var(--accent-color);
+  outline: none;
 }
 .clients-icon {
   width: 106px;
